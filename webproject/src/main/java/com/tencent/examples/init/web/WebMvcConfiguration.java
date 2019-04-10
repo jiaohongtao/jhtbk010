@@ -95,6 +95,7 @@ public class WebMvcConfiguration extends WebMvcConfigurerAdapter {
         registry.addViewController("/demo/backstage").setViewName("/demo/backstage");
         registry.addViewController("/demo/tables").setViewName("/demo/tables");
         registry.addViewController("/").setViewName("/index");
+        //registry.addViewController("/").setViewName("/index_bac");
     }
 
     @Override

@@ -43,7 +43,7 @@
   </head>
 <body>
     <!--顶部导航 Start-->
-		<%@ include file="/WEB-INF/layouts/header.jsp"%>
+		<%--<%@ include file="/WEB-INF/layouts/header.jsp"%>--%>
     <!--顶部导航 End-->
 
     <!-- 固定宽度表单居中 start -->

@@ -65,6 +65,7 @@ public class IndexPageController extends BaseController {
         }
 
         view.setViewName("/index"); //首页
+        // view.setViewName("/index_bac"); //首页
         return view;
     }
 
